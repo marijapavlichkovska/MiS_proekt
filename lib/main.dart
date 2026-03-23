@@ -12,7 +12,7 @@ import 'screens/login_screen.dart';
 import 'screens/home_screen.dart';
 
 const String kBaseUrl = 'https://api.rawg.io/api';
-const String kRawgApiKey = 'xxx';
+const String kRawgApiKey = 'xx';
 
 Future<void> main() async {
   WidgetsFlutterBinding.ensureInitialized();
