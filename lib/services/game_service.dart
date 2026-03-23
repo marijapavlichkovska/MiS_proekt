@@ -2,7 +2,7 @@ import 'package:cloud_firestore/cloud_firestore.dart';
 import '../models/game.dart';
 import 'api_service.dart';
 
-const String rawgApiKey = '700c7187286a4fe298ba65898f7dbd3e';
+const String rawgApiKey = 'xxx';
 
 class GameService {
   final ApiService _api;
